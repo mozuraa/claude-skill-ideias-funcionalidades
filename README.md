@@ -100,7 +100,7 @@ claude-skill-ideias-funcionalidades/
 
 | Skill | Para quê |
 |---|---|
-| [`ideias-apps`](https://github.com/mozuraa/claude-skill-ideias-apps) | Ideias de apps e jogos |
+| [`app-studio`](https://github.com/mozuraa/claude-skill-app-studio) | Apps: idear, criar e diagnosticar |
 | [`ideias-funcionalidades`](https://github.com/mozuraa/claude-skill-ideias-funcionalidades) *(esta)* | Ideias de funcionalidades |
 | [`ideias-monetizacao`](https://github.com/mozuraa/claude-skill-ideias-monetizacao) | Ideias de monetização |
 | [`brainstorming`](https://github.com/mozuraa/claude-skill-brainstorming) | Brainstorming |
@@ -194,7 +194,7 @@ A skill is a folder with a `SKILL.md` file: a name, a description of when it sho
 
 | Skill | What for |
 |---|---|
-| [`ideias-apps`](https://github.com/mozuraa/claude-skill-ideias-apps) | App & game ideas |
+| [`app-studio`](https://github.com/mozuraa/claude-skill-app-studio) | Apps: ideate, create and diagnose |
 | [`ideias-funcionalidades`](https://github.com/mozuraa/claude-skill-ideias-funcionalidades) *(this one)* | Feature ideas |
 | [`ideias-monetizacao`](https://github.com/mozuraa/claude-skill-ideias-monetizacao) | Monetization ideas |
 | [`brainstorming`](https://github.com/mozuraa/claude-skill-brainstorming) | Brainstorming |
